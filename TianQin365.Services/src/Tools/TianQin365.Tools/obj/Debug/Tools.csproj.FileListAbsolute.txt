@@ -1,0 +1,10 @@
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\bin\Debug\TianQin365.Tools.exe.config
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\bin\Debug\TianQin365.Tools.exe
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\bin\Debug\TianQin365.Tools.pdb
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\TianQin365.Tools.FormMain.resources
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\TianQin365.Tools.Properties.Resources.resources
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\Tools.csproj.GenerateResource.Cache
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\TianQin365.Tools.exe
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\TianQin365.Tools.pdb
+E:\vs2017work\TianQin365.Services\src\Tools\TianQin365.Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache

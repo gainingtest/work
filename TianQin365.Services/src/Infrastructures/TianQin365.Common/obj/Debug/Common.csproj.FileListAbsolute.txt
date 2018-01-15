@@ -1,0 +1,15 @@
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\app.config
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\TianQin365.Common.dll.config
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\TianQin365.Common.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\TianQin365.Common.pdb
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\System.Net.Http.Formatting.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\System.Web.Http.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\Newtonsoft.Json.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\System.Net.Http.Formatting.xml
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\System.Web.Http.xml
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\obj\Debug\TianQin365.Common.dll
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\obj\Debug\TianQin365.Common.pdb
+E:\vs2017work\TianQin365.Services\src\Infrastructures\TianQin365.Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TianQin365.Organization</name>
+    </assembly>
+    <members>
+        <member name="P:TianQin365.Organization.Models.Company.Name">
+            <summary>
+            公司名称
+            </summary>
+        </member>
+        <member name="P:TianQin365.Organization.Models.CompanyOutput.ID">
+            <summary>
+            单位ID
+            </summary>
+        </member>
+        <member name="P:TianQin365.Organization.Models.CompanyOutput.Name">
+            <summary>
+            单位名称
+            </summary>
+        </member>
+        <member name="T:TianQin365.Organization.Models.User">
+            <summary>
+            用户模型
+            </summary>
+            <summary>
+            用户模型方法
+            </summary>
+        </member>
+        <member name="P:TianQin365.Organization.Models.User.PhoneNumber">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:TianQin365.Organization.Models.User.Password">
+            <summary>
+            Hash加密后的密码
+            </summary>
+        </member>
+        <member name="P:TianQin365.Organization.Models.User.PasswordSalt">
+            <summary>
+            Hash加密密码的salt
+            </summary>
+        </member>
+        <member name="M:TianQin365.Organization.Models.User.EncryptPassword(System.String)">
+            <summary>
+            使用Hash加密密码
+            </summary>
+            <param name="password">明文密码</param>
+            <returns></returns>
+        </member>
+        <member name="M:TianQin365.Organization.Models.User.IsPasswordCorrect(System.String)">
+            <summary>
+            密码校验
+            </summary>
+            <param name="password">明文密码</param>
+            <returns></returns>
+        </member>
+        <member name="M:TianQin365.Organization.Models.User.RestPassword(System.String)">
+            <summary>
+            重置密码
+            </summary>
+            <param name="newPassword">新的密码</param>
+        </member>
+    </members>
+</doc>
